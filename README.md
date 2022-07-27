@@ -1,4 +1,4 @@
-### Hi there 👋
+# My open-source work is at [cj.rs/open-source](https://cj.rs/open-source/)
 
 <!--
 **cl3joly/cl3joly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
